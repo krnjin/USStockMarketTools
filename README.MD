@@ -19,12 +19,19 @@ Enter your selection: {input}
 ## **Sample Output**
 
 *Selection 1*
+
 Calculating the performace of SP500 componenets...
+
 % of stocks positive: 79.41%
+
 % of stocks positive: 21.39%
 
 *Selection 2*
+
 ----------ABOUT----------
+
 fuboTV, Inc. operates as a digital entertainment company. It focuses on offering consumers a live television (TV) streaming platform for sports, news and entertainment through fuboTV. View more
+
 ----------MARKET CAP----------
+
 1.57B
