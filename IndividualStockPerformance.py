@@ -16,7 +16,7 @@ def individual_stock_performance(stock):
 	except:
 		print("Invalid Stock Symbol.")
 		return 
-	
+
 	soup = BeautifulSoup(webpage, 'html.parser')
 	
 	# find about section in robinhood
@@ -29,7 +29,3 @@ def individual_stock_performance(stock):
 	print(about)
 	print("-"*10+"MARKET CAP"+"-"*10)
 	print(market_cap)
-
-
-individual_stock_performance("fubo")
-
