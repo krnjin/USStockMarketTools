@@ -1,3 +1,7 @@
+```{r include = FALSE}
+knitr::opts_chunk$set(fig.height = 9, fig.width = 7)
+```
+
 # US Stock Lookup Tool
 
 ## Selection 1 -
