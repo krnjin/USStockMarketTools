@@ -21,7 +21,7 @@ while(flag == "y"):
 	if selection == "1":
 		print("\nCalculating the performace of SP500 componenets...")
 		print("% of stocks positive: "+calculate_stock_perf("up")+"%")
-		print("% of stocks positive: "+calculate_stock_perf("down")+"%")
+		print("% of stocks negative: "+calculate_stock_perf("down")+"%")
 	elif selection == "2":
 		stock_symbol = input("\nPlease enter the stock symbol you want to look up: ")
 		individual_stock_performance(stock_symbol)	
